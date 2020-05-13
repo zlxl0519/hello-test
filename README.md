@@ -11,8 +11,16 @@
       
 - `인라인 코드 작성하기`
 - ```여러줄로된 코드 블럭 작성하기 ```
-```<style>
-    h1 {
-        color:red;
-        }
-</style>```
+## css 작성하기
+```css
+    h1{
+          color : red;
+          }
+```
+- 인라인 링크는 아래처럼<br/>
+[네이버](http://www.naver.com)
+- url 링크는 아래<br/>
+<http://www.naver.com>
+- 참조링크 <br/>
+[네이버] : (http://www.naver.com) 
+- 
